@@ -33,17 +33,6 @@ Still practicing and building real projects to improve my current skills.
 
 ---
 
-## 📌 Projects
-
-🔹 [Zakat Calculator Website](https://zakatalfetrcalculator.netlify.app/)  
-A simple and fast website to calculate Zakat Al-Fitr — built with HTML, CSS, and JavaScript.
-
-🔹 [Inventory Management System](https://github.com/abdo13579/Inventory-Management-System)
-A Simple command-line Inventory Management System using Python and SQLite.  
-Manage products, stock, and sales directly from the terminal.
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: [abdulrahman.contactus@gmail.com](mailto:abdulrahman.contactus@gmail.com)  
