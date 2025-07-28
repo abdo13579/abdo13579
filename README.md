@@ -36,7 +36,7 @@ Still practicing and building real projects to improve my current skills.
 ## 📫 Contact Me
 
 - 📧 Email: [abdulrahman.contactus@gmail.com](mailto:abdulrahman.contactus@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/abdulrahman-alhaytham-789283319](https://www.linkedin.com/in/abdulrahman-alhaytham)
+- 💼 LinkedIn: [linkedin.com/in/abdulrahman-alhaytham](https://www.linkedin.com/in/abdulrahman-alhaytham)
 
 ---
 
