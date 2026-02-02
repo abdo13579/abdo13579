@@ -1,25 +1,45 @@
-# Hi there, I'm Abdulrahman Alhaythem 👋
+<div align="center">
 
-### 🚀 Student & Aspiring Developer
-I am a passionate student deeply interested in the intersection of **Web Development** and **Cybersecurity**. Currently, I'm focusing my energy on mastering the art of building beautiful and functional user interfaces.
+  <h1> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Abdulrahman;Web+Dev+%26+Cyber+Sec;Student+%26+Learner" alt="Typing SVG" />
+  </h1>
 
----
+  <p>
+    I am a passionate <b>Student</b> focused on <b>Web Development</b> and <b>Cybersecurity</b>.<br>
+    Currently mastering the art of building secure and interactive front-end experiences.
+  </p>
 
-### 🛠 Tech Stack & Tools
+  <hr />
 
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- **Current Focus:** 🎨 Improving my **Front-end Development** skills.
+  <h2> 🛠️ Technical Skills </h2>
+  <br />
+  <div>
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,git&theme=dark" height="80" />
+  </div>
 
----
+  <br />
+  <hr />
 
-### 📈 GitHub Stats
-![Abdulrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=haythoksa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haythoksa&layout=compact&theme=radical)
+  <h2> 📫 Connect With Me </h2>
 
----
+  <a href="mailto:abdulrahman.a.alfeel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/haythoksa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/haythoksa">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://qabilah.com/profile/haythoksa">
+    <img src="https://img.shields.io/badge/Qabilah-FF5722?style=for-the-badge&logo=target&logoColor=white" />
+  </a>
 
-### 📫 Connect with me
+  <br /><br />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+</div>
 
 - **LinkedIn:** [linkedin.com/in/haythoksa](https://www.linkedin.com/in/haythoksa/)
 - **Telegram:** [@haythoksa](https://t.me/haythoksa)
