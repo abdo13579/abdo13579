@@ -40,12 +40,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 </div>
-
-- **LinkedIn:** [linkedin.com/in/haythoksa](https://www.linkedin.com/in/haythoksa/)
-- **Telegram:** [@haythoksa](https://t.me/haythoksa)
-- **Qabilah:** [qabilah.com/profile/haythoksa](https://qabilah.com/profile/haythoksa)
-- **Email:** [abdulrahman.a.alfeel@gmail.com](mailto:abdulrahman.a.alfeel@gmail.com)
-
----
-
-*“The best way to predict the future is to invent it.”*
