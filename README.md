@@ -22,7 +22,7 @@
 
   <h2> 📫 Connect With Me </h2>
 
-  <a href="mailto:abdulrahman.a.alfeel@gmail.com">
+  <a href="mailto:abdulrahman.contactus@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/haythoksa/">
