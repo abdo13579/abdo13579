@@ -25,13 +25,13 @@
   <a href="mailto:abdulrahman.contactus@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/haythoksa/">
+  <a href="https://www.linkedin.com/in/AbdoAlhythm/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/AbdoAlhythm">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://qabilah.com/profile/haythoksa">
+  <a href="https://qabilah.com/profile/AbdoAlhythm">
     <img src="https://img.shields.io/badge/Qabilah-FF5722?style=for-the-badge&logo=target&logoColor=white" />
   </a>
 
